@@ -1,0 +1,24 @@
+{
+  "name": "courserawebframeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhhi/courserawebframeworks.git"
+  },
+  "author": "Nidhhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhhi/courserawebframeworks/issues"
+  },
+  "homepage": "https://github.com/nidhhi/courserawebframeworks#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
